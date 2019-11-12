@@ -1,6 +1,6 @@
 # What dis?
 
-A Hello World Example of using Node to serve static website content
+Example for method extraction technique of refactoring
 
 # Install
 
